@@ -57,17 +57,6 @@ Sou um Engenheiro Florestal apaixonado por código. Minha missão é eliminar o 
 
 <br>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/SEU-USUARIO">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <sub>Let's connect! 🚀</sub>
 </div>
