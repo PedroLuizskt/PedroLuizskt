@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0054a6&height=120&section=header"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=0054a6&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Pedro+Luiz!;Engenheiro+Florestal+|+Cientista+de+Dados;Especialista+em+Python;Transformando+Dados+em+Inteligência+Territorial;Seja+bem-vindo!&duration=3500&pause=800" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=90d5ff&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Pedro+Luiz!;Engenheiro+Florestal+|+Cientista+de+Dados;Especialista+em+Python;Transformando+Dados+em+Inteligência+Territorial;Seja+bem-vindo!&duration=3500&pause=800" alt="Typing SVG" />
   </a>
 </div>
 
@@ -29,18 +29,32 @@ Possuo experiência prática na transformação de fluxos manuais em pipelines e
 <div align="center">
 
 **Linguagens & Core**<br>
-<img src="https://skillicons.dev/icons?i=python,r,java,js" />
+<img src="https://skillicons.dev/icons?i=python,r,postgresql,js" />
 
-**Geoespacial & Cloud**<br>
-<img src="https://skillicons.dev/icons?i=postgres,gcp" />
+**Infra Geoespacial & Cloud**<br>
 <img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/GDAL-365643?style=for-the-badge&logo=gdal&logoColor=white" height="30" />
 
-**Bibliotecas & Frameworks**<br>
+**Processamento Vetorial & Matricial**<br>
 <img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Rasterio-3A75B0?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Shapely-FF4400?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Fiona-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyProj-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Xarray-1B3E93?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Xee_(GEE)-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
+
+**Machine Learning & Estatística**<br>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white" />
+
+**Visualização & Dashboards**<br>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 
 **Ferramentas & DevOps**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,django" />
