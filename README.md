@@ -8,7 +8,7 @@
 
 ---
 
-### &nbsp; Sobre mim
+### &nbsp;Sobre mim
 
 Sou **Engenheiro Florestal** e **Cientista de Dados Geoespaciais**, apaixonado por unir a gestão de recursos naturais à engenharia de dados. Meu foco é resolver problemas operacionais complexos através da automação.
 
@@ -16,10 +16,10 @@ Possuo experiência prática na transformação de fluxos manuais em pipelines e
 
 ---
 
-### &nbsp; Fatos Rápidos
+### &nbsp;Fatos Rápidos
 - 🎓 **Formação:** Engenheiro Florestal pela UFSJ (2025).
 - 🧠 **Foco:** Automação de Pipelines, ETL Geoespacial e Cloud Computing.
-- 🛠️ **Stack Principal:** Python, PostGIS, Google Earth Engine e Streamlit.
+- 🛠️ **Stack Principal:** Python, PostGIS, Google Earth Engine e WebGis.
 - 💡 **Missão:** Criar arquiteturas que democratizem o acesso à inteligência geográfica.
 
 ---
