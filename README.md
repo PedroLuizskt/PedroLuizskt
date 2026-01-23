@@ -17,14 +17,14 @@ Possuo experiência prática na transformação de fluxos manuais em pipelines e
 ---
 
 ### &nbsp;Fatos Rápidos
-- 🎓 **Formação:** Engenheiro Florestal pela UFSJ (2025).
-- 🧠 **Foco:** Automação de Pipelines, ETL Geoespacial e Cloud Computing.
-- 🛠️ **Stack Principal:** Python, PostGIS, Google Earth Engine e WebGis.
-- 💡 **Missão:** Criar arquiteturas que democratizem o acesso à inteligência geográfica.
+- **Formação:** Engenheiro Florestal pela UFSJ (2025).
+- **Foco:** Automação de Pipelines, ETL Geoespacial e Cloud Computing.
+- **Stack Principal:** Python, PostGIS, Google Earth Engine e WebGis.
+- **Missão:** Criar arquiteturas que democratizem o acesso à inteligência geográfica.
 
 ---
 
-### &nbsp;🛠️ Arsenal Tecnológico
+### &nbsp;Arsenal Tecnológico
 
 <div align="center">
 
