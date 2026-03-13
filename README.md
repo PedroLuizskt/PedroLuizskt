@@ -136,6 +136,60 @@ Módulos analíticos científicos para análise de dinâmica hídrica e risco de
   </table>
 </div>
 
+### 5. [Data Analytics & Business Intelligence Portfolio](https://github.com/PedroLuizskt/data-analytics-portfolio)
+> *Machine Learning | R, Python, Power BI, DAX, SQL*
+
+Suíte de soluções analíticas focada em modelagem dimensional (Star Schema) e pipelines ETL para finanças, marketing e logística. O grande destaque é a integração de algoritmos preditivos diretamente na camada de visualização de negócios.
+
+* **Destaque (Lab 08 - Fraud Detection):** Sistema autônomo de detecção de anomalias financeiras utilizando **R** e o algoritmo **Isolation Forest**. O modelo matemático foi integrado ao Power BI, entregando um dashboard executivo que permite à equipe de auditoria focar exatamente nas transações anômalas (Score > 0.62), reduzindo perdas com fraudes.
+
+<div align="center">
+  <img src="assets/1.png" width="80%" alt="Dashboard de Detecção de Fraudes no Power BI" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+</div>
+
+---
+
+### 6. [Silvicultura Brasileira: Análise & Machine Learning](https://github.com/PedroLuizskt/analise-silviculturabrasileira)
+> *Data Science | Python, Scikit-learn, Plotly, API SIDRA (IBGE)*
+
+Pipeline de Ciência de Dados ponta a ponta focado no mercado florestal brasileiro. O projeto realiza a extração e tratamento avançado de dados socioeconômicos via API oficial do IBGE e aplica algoritmos de **Clustering (K-Means)** para segmentação estratégica de municípios.
+
+* **Engenharia:** Automatiza a identificação de padrões de mercado na silvicultura, utilizando o Método do Cotovelo para otimização de clusters e visualizações interativas em Plotly para suporte à decisão.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Otimização de Clusters (Método do Cotovelo)</b></td>
+      <td align="center"><b>Segmentação de Mercado (K-Means)</b></td>
+    </tr>
+    <tr>
+      <td><img src="assets/output_2.png" width="100%" alt="Gráfico Método do Cotovelo"></td>
+      <td><img src="assets/output_3.png" width="100%" alt="Gráfico de Dispersão K-Means"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 7. [AgroAnalytics: Monitoramento PNAE/PAA](https://github.com/PedroLuizskt/agroanalytics) > *Engenharia de Dados & BI | Python, PyArrow, Streamlit, FPDF2*
+
+Plataforma de inteligência focada na gestão de políticas de segurança alimentar em mais de 5.500 municípios. Implementa um pipeline ETL automatizado que sanitiza e armazena microdados do IBGE em formato colunar (**Parquet**) para altíssima performance.
+
+* **Impacto:** Entrega um dashboard interativo com mapas de calor e a geração dinâmica de relatórios executivos em PDF, transformando dados brutos em inteligência governamental acionável.
+
+<div align="center">
+  <img src="assets/example.gif" width="100%" alt="Demonstração do Dashboard AgroAnalytics" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+</div>
+
+---
+
+### 8. [RESTful WebAPI (Sem Frameworks)](https://github.com/PedroLuizskt/node-ts-webapi-without-frameworks-podcast-manager)
+> *Backend Puro | Node.js, TypeScript, Clean Architecture*
+
+Para demonstrar domínio absoluto dos fundamentos HTTP e engenharia de software, desenvolvi esta API RESTful do zero, **sem a utilização de frameworks (como Express ou NestJS)**. Acesse em: https://github.com/PedroLuizskt/node-ts-webapi-without-frameworks-podcast-manager
+
+* **Arquitetura:** Estruturada sob o padrão MSC (Model-Service-Controller). Implementa roteamento nativo, injeção autônoma de cabeçalhos CORS de segurança, tratamento universal de exceções (Fallback 404) e higienização rigorosa de inputs.
+
 ---
 
 ## &nbsp;📈 Atividade no GitHub
@@ -144,6 +198,15 @@ Módulos analíticos científicos para análise de dinâmica hídrica e risco de
   <a href="https://github.com/PedroLuizskt">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLuizskt&bg_color=ffffff&color=0054a6&line=0054a6&point=0054a6&area=true&hide_border=true" />
   </a>
+</div>
+
+---
+
+## &nbsp;📊 Estatísticas do Código
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuizskt&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=0054a6" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLuizskt&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=0054a6&count_private=true" alt="Estatísticas do GitHub"/>
 </div>
 
 ---
