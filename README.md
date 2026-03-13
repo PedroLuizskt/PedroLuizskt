@@ -6,58 +6,63 @@
   </a>
 </div>
 
----
+### 🌲 Sobre mim
 
-### &nbsp;Sobre mim
+Sou **Engenheiro Florestal** e **Cientista de Dados Geoespaciais**, com uma base sólida em **Engenharia de Software**. Meu diferencial está em unir a inteligência territorial à construção de arquiteturas de dados de alta performance.
 
-Sou **Engenheiro Florestal** e **Cientista de Dados Geoespaciais**, apaixonado por unir a gestão de recursos naturais à engenharia de dados. Meu foco é resolver problemas operacionais complexos através da automação.
-
-Possuo experiência prática na transformação de fluxos manuais em pipelines escaláveis, reduzindo o tempo de processamento de **dias para minutos**. Domino o ecossistema **Python GIS** e processamento em nuvem com **Google Earth Engine**, entregando soluções de alta precisão para o setor agroflorestal e de sustentabilidade.
+Especialista em automatizar pipelines complexos (ETL) e desenvolver soluções de **Back-end (Node.js/TypeScript)**, foco em transformar fluxos manuais em sistemas escaláveis. Consigo levar o processamento de dados ambientais de **dias para minutos**, garantindo que a informação chegue de forma segura e rápida via **APIs RESTful**.
 
 ---
 
-### &nbsp;Fatos Rápidos
+### Fatos Rápidos
 - **Formação:** Engenheiro Florestal pela UFSJ (2025).
-- **Foco:** Automação de Pipelines, ETL Geoespacial e Cloud Computing.
-- **Stack Principal:** Python, PostGIS, Google Earth Engine e WebGis.
-- **Missão:** Criar arquiteturas que democratizem o acesso à inteligência geográfica.
+- **Engenharia de Dados:** Especialista em Python (GeoPandas, Rasterio) e Google Earth Engine.
+- **Software & Cloud:** Experiência em Clean Architecture, Node.js, TypeScript e PostGIS.
+- **Inovação:** Criador de assistentes virtuais baseados em LLMs (Llama-3) para o setor agroflorestal.
+- **Missão:** Democratizar o acesso à inteligência geográfica através de tecnologia robusta.
 
 ---
 
-### &nbsp;Arsenal Tecnológico
+### Arsenal Tecnológico & Arquitetura
 
 <div align="center">
 
-**Linguagens & Core**<br>
-<img src="https://skillicons.dev/icons?i=python,r,postgresql,js" />
+**Linguagens de Programação**<br>
+<img src="https://skillicons.dev/icons?i=python,ts,js,mysql,r" />
 
-**Infra Geoespacial & Cloud**<br>
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="30" />
-<img src="https://img.shields.io/badge/GDAL-365643?style=for-the-badge&logo=gdal&logoColor=white" height="30" />
+**Engenharia de Dados, Backend & APIs**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,postgresql" />
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white" height="32" />
 
-**Processamento Vetorial & Matricial**<br>
-<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Rasterio-3A75B0?style=for-the-badge&logo=python&logoColor=white" />
+**Infraestrutura Geoespacial & Cloud**<br>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/GDAL-365643?style=for-the-badge&logo=gdal&logoColor=white" height="32" />
+
+**Processamento de Dados (Vetorial/Matricial)**<br>
+<img src="https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Rasterio-3A75B0?style=for-the-badge&logo=python&logoColor=white" height="30" />
 <img src="https://img.shields.io/badge/Shapely-FF4400?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Fiona-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyProj-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Xarray-1B3E93?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Xee_(GEE)-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
 
-**Machine Learning & Estatística**<br>
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white" />
+**Inteligência Artificial & Analytics**<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" />
 
 **Visualização & Dashboards**<br>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 
-**Ferramentas & DevOps**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,django" />
+**DevOps & Ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
 
 </div>
 
