@@ -17,7 +17,7 @@ Especialista em automatizar pipelines complexos (ETL) e desenvolver soluções d
 ### Fatos Rápidos
 - **Formação:** Engenheiro Florestal pela UFSJ (2025).
 - **Atualmente:** Cientista de Dados Junior pela EnvironBIT - Consultor Analista de Geoprocessamento e Desenvolvedor GIS.
-- **Consultorias Especializadas:** Implementação de soluções GIS automatizadas em Python para projetos de grande porte. 
+- **Consultorias Especializadas:** Implementação de soluções GIS automatizadas em Python para projetos de diversos portes. 
 - **Dados:** Especialista em Python (GeoPandas, Rasterio) e Google Earth Engine.
 - **Software & Cloud:** Experiência em Clean Architecture, Node.js, TypeScript e PostGIS.
 - **Inovação:** Criador de assistentes virtuais baseados em LLMs (Llama-3) para o setor agroflorestal.
