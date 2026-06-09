@@ -8,7 +8,7 @@
 
 ### 🌲 Sobre mim
 
-Sou **Engenheiro Florestal** e **Cientista de Dados Geoespaciais**, com uma base sólida em **Engenharia de Software**. Meu diferencial está em unir a inteligência territorial à construção de arquiteturas de dados de alta performance.
+Sou **Engenheiro Florestal** e **Cientista de Dados Geoespaciais**, com uma base sólida em **Desenvolvimento Backend**. Meu diferencial está em unir a inteligência territorial à construção de arquiteturas de dados de alta performance.
 
 Especialista em automatizar pipelines complexos (ETL) e desenvolver soluções de **Back-end (Node.js/TypeScript)**, foco em transformar fluxos manuais em sistemas escaláveis. Consigo levar o processamento de dados ambientais de **dias para minutos**, garantindo que a informação chegue de forma segura e rápida via **APIs RESTful**.
 
