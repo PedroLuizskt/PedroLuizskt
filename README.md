@@ -32,7 +32,7 @@ Especialista em automatizar pipelines complexos (ETL) e desenvolver soluções d
 **Linguagens de Programação**<br>
 <img src="https://skillicons.dev/icons?i=python,ts,js,mysql,r" />
 
-**Engenharia de Dados, Backend & APIs**<br>
+**Backend & APIs**<br>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,postgresql" />
 <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="32" />
 <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white" height="32" />
