@@ -127,6 +127,10 @@ Pacote Python instalável (`enso_co`) que quantifica a teleconexão entre o **El
   <img src="./assets/cover_florestas.png" alt="Capa do projeto Florestas Publicas do Brasil: analise geoespacial do CNFP 2024, cobrindo 339,8 milhoes de hectares, 39,91 por cento do territorio nacional, 3.438 municipios e serie historica de 1930 a 2024." width="100%"/>
 </a>
 
+<a href="https://pedroluizskt.github.io/florestas-publicas-brasil/">
+  <img src="./assets/cover2_florestas.png" alt="Capa do projeto Florestas Publicas do Brasil: analise geoespacial do CNFP 2024, cobrindo 339,8 milhoes de hectares, 39,91 por cento do territorio nacional, 3.438 municipios e serie historica de 1930 a 2024." width="100%"/>
+</a>
+
 Análise geoespacial completa do **Cadastro Nacional de Florestas Públicas (CNFP 2024)** do Serviço Florestal Brasileiro, cruzada com os limites municipais e estaduais do IBGE 2024. O WebMap publicado no GitHub Pages permite explorar **339,8 milhões de hectares** (39,91% do território brasileiro) em quatro abas: visão geral, ranking municipal, série histórica (1930-2024) e recorte por bioma.
 
 **[Acessar o WebMap ao vivo](https://pedroluizskt.github.io/florestas-publicas-brasil/)**
@@ -159,7 +163,7 @@ Suíte de pipelines Python de alta performance para análise de **dinâmica híd
 > *ETL geoespacial serverless - Python, Google Earth Engine, Leaflet.js*
 
 <a href="https://github.com/PedroLuizskt/gee-precipitation-webmap-mg">
-  <img src="./assets/gee_precipitacao.gif" alt="Demonstracao do WebMap de precipitacao: mapa interativo quantificando a anomalia pluviometrica extrema de fevereiro de 2026 em Minas Gerais." width="100%"/>
+  <img src="./assets/cover_precipitacao.png" alt="Demonstracao do WebMap de precipitacao: mapa interativo quantificando a anomalia pluviometrica extrema de fevereiro de 2026 em Minas Gerais." width="100%"/>
 </a>
 
 Pipeline ETL geoespacial que monitora **anomalias pluviométricas extremas**. Extrai e processa duas décadas de dados raster de satélite (CHIRPS) via Google Earth Engine, calcula estatísticas espaciais na nuvem e injeta os dados de forma assíncrona em um WebMap interativo serverless. O sistema quantificou rigorosamente a **catástrofe climática de fevereiro de 2026 em Minas Gerais**, sem necessidade de infraestrutura de back-end.
