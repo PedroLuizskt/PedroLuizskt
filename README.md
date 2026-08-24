@@ -176,7 +176,7 @@ Pipeline ETL geoespacial que monitora **anomalias pluviométricas extremas**. Ex
 #### [PARANÁ: Silvicultura & Mudanças Climáticas (GEE.APP)](https://pedroschuldiner1.users.earthengine.app/view/paran-cobertura-do-solo-deteco-florestal-e-estoque-de-c)
 > *ETL geoespacial - JavaScript, Google Earth Engine*
 
-<a href="https://github.com/PedroLuizskt/gee-precipitation-webmap-mg">
+<a href="https://pedroschuldiner1.users.earthengine.app/view/paran-cobertura-do-solo-deteco-florestal-e-estoque-de-c">
   <img src="./assets/gee_app.png" alt="Demonstracao do WebMap de precipitacao: mapa interativo quantificando a anomalia pluviometrica extrema de fevereiro de 2026 em Minas Gerais." width="100%"/>
 </a>
 
