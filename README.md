@@ -173,6 +173,17 @@ Pipeline ETL geoespacial que monitora **anomalias pluviométricas extremas**. Ex
 
 <br/>
 
+#### [PARANÁ: Silvicultura & Mudanças Climáticas (GEE.APP)](https://pedroschuldiner1.users.earthengine.app/view/paran-cobertura-do-solo-deteco-florestal-e-estoque-de-c)
+> *ETL geoespacial - JavaScript, Google Earth Engine*
+
+<a href="https://github.com/PedroLuizskt/gee-precipitation-webmap-mg">
+  <img src="./assets/gee_app.png" alt="Demonstracao do WebMap de precipitacao: mapa interativo quantificando a anomalia pluviometrica extrema de fevereiro de 2026 em Minas Gerais." width="100%"/>
+</a>
+
+A plataforma integra três módulos interativos de análise geoespacial focados no setor florestal. O primeiro mapeia o uso da terra com a Coleção 10 do MapBiomas (1985-2024), permitindo isolar os plantios comerciais. O segundo detecta florestas densas combinando os índices NDVI e NDII do Sentinel-2 para separar maciços florestais de culturas sazonais. O terceiro espacializa o estoque de carbono acima do solo via ESA CCI Biomass v6.0 (2015-2022). Ao clicar no mapa, o aplicativo gera gráficos automáticos da composição de classes no entorno, ciclo fenológico mensal ou evolução do carbono por hectare.
+
+<br/>
+
 ### Machine Learning e Engenharia Florestal
 
 ---
