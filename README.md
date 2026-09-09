@@ -303,12 +303,12 @@ Para demonstrar domínio dos fundamentos HTTP e de engenharia de software, desen
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PedroLuizskt&show_icons=true&theme=github_dark&hide_border=true&title_color=3fb950&icon_color=58a6ff&count_private=true" alt="Estatisticas do GitHub de Pedro Luiz"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLuizskt&layout=compact&theme=github_dark&hide_border=true&title_color=3fb950" alt="Linguagens mais usadas por Pedro Luiz"/>
+  <img height="165em" src="./assets/github-stats.svg" alt="Estatísticas do GitHub de Pedro Luiz"/>
+  <img height="165em" src="./assets/top-langs.svg" alt="Linguagens mais usadas por Pedro Luiz"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLuizskt&bg_color=0d1117&color=e6edf3&line=3fb950&point=58a6ff&area=true&hide_border=true" alt="Grafico de atividade de contribuicoes de Pedro Luiz no GitHub" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroLuizskt&bg_color=0d1117&color=e6edf3&line=3fb950&point=58a6ff&area=true&hide_border=true" alt="Gráfico de atividade de contribuições de Pedro Luiz no GitHub" width="100%"/>
 </div>
 
 ---
