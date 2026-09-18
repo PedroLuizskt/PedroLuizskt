@@ -42,7 +42,7 @@
 
 ## Sobre
 
-Sou **Engenheiro Florestal** (UFSJ, 2025) e **Cientista de Dados Geoespaciais**, com base sólida em **desenvolvimento back-end**. Meu diferencial está em unir três exigências que raramente convivem no mesmo profissional: **rigor científico**, **performance de produção** e **clareza para quem toma a decisão**.
+Sou **Engenheiro Florestal** (UFSJ, 2025) e **Cientista de Dados Geoespaciais**, com base sólida em **desenvolvimento back-end**. Meu diferencial está em unir três exigências: **rigor científico**, **performance de produção** e **clareza para quem toma a decisão**.
 
 Na prática, automatizo pipelines complexos de dados ambientais com **Python** (GeoPandas, Rasterio, PyArrow) e **Google Earth Engine**, sirvo os resultados por **APIs RESTful** em **Node.js/TypeScript** ou **FastAPI**, e materializo tudo em **WebMaps e dashboards interativos** que substituem PDFs estáticos por evidência navegável. Fluxos que antes exigiam dias de trabalho manual passaram a levar minutos, com produtos versionados, testados e auditáveis.
 
