@@ -1,0 +1,109 @@
+# Gera os cards de estatisticas do perfil com o GitHub Stats Extended
+# (https://github.com/stats-organization/github-stats-extended) e salva os SVGs
+# em assets/stats/. O README aponta para esses arquivos, entao o perfil nao
+# depende de nenhum servico externo no momento em que alguem abre a pagina.
+#
+# Custo: zero. GitHub Actions e gratuito em repositorios publicos e o token
+# padrao (GITHUB_TOKEN) basta para dados publicos.
+#
+# Opcional: para incluir commits de repositorios privados, crie um token
+# classico com escopos "repo" e "read:user" e salve como secret STATS_TOKEN
+# (Settings > Secrets and variables > Actions). Sem ele, usa o GITHUB_TOKEN.
+
+name: Atualizar estatisticas do perfil
+
+on:
+  schedule:
+    - cron: "17 9 * * *" # todo dia as 06:17 de Brasilia (09:17 UTC)
+  workflow_dispatch: # botao "Run workflow" na aba Actions
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/atualizar-estatisticas.yml # roda ao alterar as opcoes
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-estatisticas
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      # Estrelas, commits de todos os anos e PRs. Issues e "contribuiu para"
+      # ficam de fora; o anel mostra o rank com o icone do GitHub, sem nota.
+      # line_height=30 deixa o card com 165 px, a mesma altura do de linguagens.
+      - name: Card de estatisticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          path: assets/stats/github-stats.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          options: >-
+            {
+              "username": "PedroLuizskt",
+              "locale": "pt-br",
+              "custom_title": "Atividade no GitHub",
+              "show_icons": true,
+              "include_all_commits": true,
+              "hide": "issues,contribs",
+              "rank_icon": "github",
+              "line_height": 30,
+              "border_radius": 6,
+              "theme_light": "light_github",
+              "theme_dark": "dark_github",
+              "title_color_light": "1a7f37",
+              "icon_color_light": "1a7f37",
+              "ring_color_light": "1a7f37",
+              "title_color_dark": "6bc17c",
+              "icon_color_dark": "6bc17c",
+              "ring_color_dark": "6bc17c"
+            }
+
+      # Ranking pela quantidade de repositorios em que cada linguagem aparece
+      # (size_weight=0, count_weight=1). Por bytes, HTML gerado de WebMaps e
+      # saidas de notebooks dominam e escondem o Python. Notebooks ja sao Python;
+      # Makefile, Dockerfile e Shell sao apoio, nao linguagem principal.
+      - name: Card de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          path: assets/stats/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+          options: >-
+            {
+              "username": "PedroLuizskt",
+              "locale": "pt-br",
+              "layout": "compact",
+              "langs_count": 6,
+              "size_weight": 0,
+              "count_weight": 1,
+              "hide": "jupyter notebook,makefile,dockerfile,shell",
+              "border_radius": 6,
+              "theme_light": "light_github",
+              "theme_dark": "dark_github",
+              "title_color_light": "1a7f37",
+              "title_color_dark": "6bc17c"
+            }
+
+      - name: Commit dos cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/*.svg
+          if git diff --cached --quiet; then
+            echo "[OK] cards sem mudancas"
+            exit 0
+          fi
+          git commit -m "Atualiza cards de estatisticas"
+          git push
+          echo "[OK] cards atualizados"
